@@ -1,0 +1,24 @@
+padding: 0;
+body {
+color: #333;
+background: #fff;
+  margin: 0;
+}
+
+.caja {
+border: 2px dashed pink;
+padding: 15px;
+background-color: #f8e1e7;
+margin-left: 20px;
+}
+
+font-size: 2em;
+color: white;
+header h1 {
+}
+
+.texto {
+margin-top: 20px;
+  background-color: #fefefe;
+font-family: sans-serif;
+}
